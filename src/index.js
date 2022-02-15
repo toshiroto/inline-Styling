@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 const customStyle = {
   color: "red",
-  fontSize: "32px"
+  fontSize: "40px"
 };
 
 customStyle.color = "blue";
